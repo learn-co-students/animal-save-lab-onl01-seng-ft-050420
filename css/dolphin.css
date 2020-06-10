@@ -18,5 +18,10 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media only screen and (max-width: 1196px) {
+  #dolphin {transform: rotate(45);
+    right: 250px
+    top:0px;
+  }
+}
 
